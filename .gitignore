@@ -1,0 +1,31 @@
+# Environment variables
+.env
+.env.*
+*.env
+
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Credentials
+credentials.json
+client_secret.json
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
